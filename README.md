@@ -24,6 +24,7 @@ My graduation project: **VitalCare** is a full-featured doctor appointment platf
 
 - 👤 Patient and doctor authentication  
 - 📅 Appointment booking system with availability management  
+- 📧 Email notifications implemented using **PHPMailer**  
 - ⚙️ Admin dashboard  
 - 📄 Modals for privacy policy, terms of service, and contact
 
