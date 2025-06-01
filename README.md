@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Shahad Ahmad
 
-🎓 I'm a senior IT student with a GPA of **3.96/4.00**, passionate about **coding**, **problem-solving**, and **continuous learning**. I love turning ideas into working software and exploring new technologies.
+🎓 I'm a senior IT student with a GPA of **3.94/4.00**, passionate about **coding**, **problem-solving**, and **continuous learning**. I love turning ideas into working software and exploring new technologies.
 
 ## 🚀 About Me
 
